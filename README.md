@@ -8,7 +8,8 @@ B. Zoo, Bird, Cage, Zookeeper, Reptile. Lion
 C. Cookbook, Dish, Ingredients, Author, Starter/first course, Vegetable, main course, Meat, Dessert    
 D. Invoice, Customer, Employee, Line item    
 
-## Exercise 2: Make a short description about the information present in the Class Diagram.
+## Exercise 2: 
+> Make a short description about the information present in the Class Diagram.
 
 ![class Diagram](classDiagram.jpg)
 
